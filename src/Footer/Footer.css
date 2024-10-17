@@ -1,0 +1,32 @@
+footer {
+    background-color: black;
+    /* Black background */
+}
+
+footer h5 {
+    color: white;
+    /* Highlight color */
+}
+
+footer a {
+    color: #ffffffa3;
+    /* White text for links */
+
+}
+
+footer a:hover {
+    color: white;
+    /* Hover effect */
+}
+
+footer i {
+    margin-right: 5px;
+}
+
+li {
+    margin-bottom: 0.7rem;
+}
+
+.footerLi:hover {
+    text-decoration: underline;
+}
